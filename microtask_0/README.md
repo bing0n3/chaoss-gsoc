@@ -22,6 +22,8 @@ pyenv install anaconda3-5.1.0 # download will take a long time
 pyenv local anaconda3-5.1.0 # activate conda in the local file
 ```
 
+In order to make installiation sucessful, I modified two paramertes in [Makefile](https://gist.github.com/bing0n3/68032a04335a58ae779aa9ea6012c4a4) which is related to conda. 
+
 ## Augur Installation 
 
 
