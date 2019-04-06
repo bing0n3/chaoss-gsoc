@@ -1,6 +1,6 @@
 # chaoss-gsoc
 
-Microtasks for GSOC Idea 4: Build CHAOSS Risk and Growth Maturity and Decline 
+Microtasks for GSOC Idea: Build CHAOSS Risk and Growth Maturity and Decline 
 Metrics in Augur.
 
 Here is my [proposal](https://docs.google.com/document/d/1InxOXnHUo-C-dMboGIHrb69bQ6P1sQ79PxnWBWHiV0g/edit?usp=sharing).
