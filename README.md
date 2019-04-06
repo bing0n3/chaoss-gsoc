@@ -19,14 +19,13 @@ Here is my [proposal](https://docs.google.com/document/d/1InxOXnHUo-C-dMboGIHrb6
     * [Pull Request Closed](https://github.com/chaoss/augur/pull/261/commits/546756f3637e1a05a0eb67a23edf20c71e135a5d)
 
 ## Microtask 2
-- [ ]  Take a look at VUE cards, and try new visualizations for some of the already existing metrics.
-    * Implement Polar Chart
+- [x]  Take a look at VUE cards, and try new visualizations for some of the already existing metrics.
+    * Implement Stacked Area Chart
     * Implement Heat Map
     * Explanation can be found [here](./microtask_2)
 
 ## MIcrotask 3
-- [ ]  Task: Make a pull request to update the newcomer documentation or, if you have questions about getting started in the steps above, open an issue in the Augur repository.
-    * [PR #TODO]()
+- [x]  Task: Make a pull request to update the newcomer documentation or, if you have questions about getting started in the steps above, open an issue in the Augur repository.
 
 ## PR
 * [Fix typo in dev-guide](https://github.com/chaoss/augur/pull/260)

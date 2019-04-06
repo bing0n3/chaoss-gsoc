@@ -12,8 +12,8 @@ There is a Vega-Lite [json](https://gist.github.com/bing0n3/73f508b1a4cc2c165413
 ![heatmap](./heatmap.png)
 
 
-<!-- ## Polar Area Diagram
+## Stacked Area Chars
 
-There is a Vega-Lite [json]() to genereate polar area diagram. 
+There is a Vega-Lite [json]() to genereate Stacked Area Chars for open/close issues.
 
-![]() -->
+![stack](./stack.png)
