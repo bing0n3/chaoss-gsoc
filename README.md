@@ -27,6 +27,7 @@ Here is my [proposal](https://docs.google.com/document/d/1InxOXnHUo-C-dMboGIHrb6
 ## MIcrotask 3
 - [x]  Task: Make a pull request to update the newcomer documentation or, if you have questions about getting started in the steps above, open an issue in the Augur repository.
 
-## PR
-* [Fix typo in dev-guide](https://github.com/chaoss/augur/pull/260)
-* [Implemented metrics 'Pull Request Closed' and 'Pull Request Comment Duration' in Ghtorrent](https://github.com/chaoss/augur/pull/261)
+## Others
+* [PR #260](https://github.com/chaoss/augur/pull/260): Fix typo in dev-guide
+* [PR #261](https://github.com/chaoss/augur/pull/261): Implemented metrics 'Pull Request Closed' and 'Pull Request Comment Duration' in Ghtorrent
+* [PR #264](https://github.com/chaoss/augur/pull/264):  fix Issue 'Missing dates on time-axis #259'
