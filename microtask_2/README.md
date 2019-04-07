@@ -14,6 +14,6 @@ There is a Vega-Lite [json](https://gist.github.com/bing0n3/73f508b1a4cc2c165413
 
 ## Stacked Area Chars
 
-There is a Vega-Lite [json]() to genereate Stacked Area Chars for open/close issues.
+There is a Vega-Lite [json](https://gist.github.com/bing0n3/cc1b207eceea2f6e92966fa38d421320) to genereate Stacked Area Chars for open/close issues.
 
 ![stack](./stack.png)
