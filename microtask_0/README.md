@@ -69,9 +69,4 @@ make dev
 ```
 ![run](./assests/run.png)
 ![web](./assests/web.png)
-## Expertiments
 
-
-
-
-## Read Posts
